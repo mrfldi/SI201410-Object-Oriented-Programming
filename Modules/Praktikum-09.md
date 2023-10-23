@@ -232,5 +232,5 @@ if (isset($_GET['id'])) {
 4. Penulisan laporan harus menampilkan penjelasan dari kode dan juga screenshoot hasil.
 5. Laporan ditulis dengan menggunakan Markdown dan dikumpulkan dengan format pdf.
 
-
----
+Untuk kode pada praktikum kali ini dapat anda lihat melalui:
+https://github.com/mrfldi/SI201410-Object-Oriented-Programming
